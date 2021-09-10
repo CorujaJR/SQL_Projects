@@ -1,0 +1,3 @@
+USE Logistica;
+GO
+SELECT DATEPART(DAY, GETDATE());
